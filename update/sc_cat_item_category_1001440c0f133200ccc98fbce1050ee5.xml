@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="michaels item">7fc70ea70f033200ccc98fbce1050ec2</sc_cat_item>
+        <sc_category display_value="category 1">2f7a3bf70f033200ccc98fbce1050e77</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-06-06 19:31:08</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>1001440c0f133200ccc98fbce1050ee5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>category 1.michaels item</sys_name>
+        <sys_package display_value="App - Michael" source="x_8570_michael">dfe44ae30f033200ccc98fbce1050e95</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="App - Michael">dfe44ae30f033200ccc98fbce1050e95</sys_scope>
+        <sys_update_name>sc_cat_item_category_1001440c0f133200ccc98fbce1050ee5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-06-06 19:31:08</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>
